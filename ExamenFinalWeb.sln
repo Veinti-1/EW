@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamenFinalWeb", "ExamenFinalWeb\ExamenFinalWeb.csproj", "{A7BF3F98-FEDA-4567-8827-9478441AD483}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAPI", "BAPI\BAPI.csproj", "{C8B215D4-28A4-4546-AC56-D92F0F858A67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7BF3F98-FEDA-4567-8827-9478441AD483}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7BF3F98-FEDA-4567-8827-9478441AD483}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7BF3F98-FEDA-4567-8827-9478441AD483}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7BF3F98-FEDA-4567-8827-9478441AD483}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8B215D4-28A4-4546-AC56-D92F0F858A67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8B215D4-28A4-4546-AC56-D92F0F858A67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8B215D4-28A4-4546-AC56-D92F0F858A67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8B215D4-28A4-4546-AC56-D92F0F858A67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5976D3B9-353B-4CDE-8061-2C2EFA3807EC}
+	EndGlobalSection
+EndGlobal
